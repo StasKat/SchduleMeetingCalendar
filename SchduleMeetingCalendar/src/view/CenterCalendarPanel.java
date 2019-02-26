@@ -31,7 +31,7 @@ public class CenterCalendarPanel extends JPanel {
 		super.setPreferredSize(new Dimension(300,300));
 		
 		super.add(new JLabel("Place Holder For the Calendar."));
-		super.setBackground(Color.CYAN.brighter());
+		super.setBackground(Color.LIGHT_GRAY);
 	}
 	
 	
